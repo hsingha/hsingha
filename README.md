@@ -1,7 +1,7 @@
 ## Hi there, I hope you are doing great!! 👋
 
 
-- I am a masters student at Northeastern University Boston majoring in Electrical & Computer Engineering with a focus on Machine Learning.
+- I am a masters student at Northeastern University Boston majoring in Electrical & Computer Engineering with a focus on Machine Learning. Currently, I am looking for Full Time Opportunities in the Data Science & Machine Learning domain.
 - Previously held a co-op position at LG Energy Solutions Vertech as a Data Scientist where I gained 6 months of experience solving problems under the BESS (Battery Energy Storage System) domain.
 - You can find me on LinkedIn [here](https://www.linkedin.com/in/hunysingha/)
 - My leetcode profile [here](https://leetcode.com/u/huny_singha/)
