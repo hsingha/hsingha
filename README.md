@@ -5,7 +5,7 @@
 - Previously held a co-op position at LG Energy Solutions Vertech as a Data Scientist where I gained 6 months of experience solving problems under the BESS (Battery Energy Storage System) domain.
 - You can find me on LinkedIn [here](https://www.linkedin.com/in/hunysingha/)
 - My leetcode profile [here](https://leetcode.com/u/huny_singha/)
-- My resume can be found [here]([https://drive.google.com/file/d/1wUlepxcFBxre23lteqz_IT6OBS75dNfe/view?usp=sharing](https://drive.google.com/file/d/10lHnTwTUlQ8At4UC-0KhYl3wiN-DzD0F/view?usp=sharing))
+- My resume can be found [here](https://drive.google.com/file/d/10lHnTwTUlQ8At4UC-0KhYl3wiN-DzD0F/view?usp=sharing)
 
 - Have a look at my github stats : 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hsingha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
